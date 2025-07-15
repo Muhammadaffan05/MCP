@@ -1,0 +1,26 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# uv lock file
+uv.lock
+
+# Python version file
+.python-version
+
+# macOS
+.DS_Store
+
+# Log files
+*.log
+
+# dotenv environment files
+.env
+.env.*
